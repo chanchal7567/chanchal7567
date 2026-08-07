@@ -7,6 +7,7 @@
 <img src="banner.png" width="100%"/>
 
 </div>
+----
 
 ## 👨‍💻 About Me
 
