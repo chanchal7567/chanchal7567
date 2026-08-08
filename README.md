@@ -68,3 +68,14 @@ Hi, I'm **Chanchal**, a passionate **Cloud & DevOps Engineer** with hands-on exp
 - 💼 LinkedIn: linkedin.com/in/chanchal-raj-6a1a923b7
 - 💻 GitHub: https://github.com/chanchal7567
 
+<p align="center">
+  <a href="https://linkedin.com/in/chanchal-raj-6a1a923b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Chanchal%20Raj-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/chanchal7567">
+    <img src="https://img.shields.io/badge/GitHub-chanchal7567-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:chanchal18041997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
