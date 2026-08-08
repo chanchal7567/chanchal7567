@@ -56,14 +56,10 @@ Hi, I'm **Chanchal**, a passionate **Cloud & DevOps Engineer** with hands-on exp
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chanchal7567&layout=compact&langs_count=6" />
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chanchal7567&theme=onedark&row=1&column=6" />
-</p>
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-chanchal18041997@gmail.com
+- 📧 Email:  chanchal18041997@gmail.com
 - 💼 LinkedIn: linkedin.com/in/chanchal-raj-6a1a923b7
 - 💻 GitHub: https://github.com/chanchal7567
 
