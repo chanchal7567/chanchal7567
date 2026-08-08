@@ -38,3 +38,33 @@ Hi, I'm **Chanchal**, a passionate **Cloud & DevOps Engineer** with hands-on exp
 
 
 | Azure DevOps Pipeline | CI/CD Pipeline Implementation |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chanchal7567&show_icons=true&theme=tokyonight" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chanchal7567&theme=tokyonight" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal7567&layout=compact&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chanchal7567&theme=onedark&row=1&column=6" />
+</p>
+
+## 📫 Connect With Me
+
+- 📧 Email: your-chanchal18041997@gmail.com
+- 💼 LinkedIn: linkedin.com/in/chanchal-raj-6a1a923b7
+- 💻 GitHub: https://github.com/chanchal7567
+
