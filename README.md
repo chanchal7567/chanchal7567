@@ -53,11 +53,10 @@ Hi, I'm **Chanchal**, a passionate **Cloud & DevOps Engineer** with hands-on exp
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal7567&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chanchal7567&layout=compact&langs_count=6" />
 </p>
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chanchal7567&theme=onedark&row=1&column=6" />
 </p>
