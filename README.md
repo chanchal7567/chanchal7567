@@ -88,29 +88,7 @@ Deployed and managed containerized workloads on Azure Kubernetes Service (AKS).
 - 🚀 Integrated containers with CI/CD workflows
 - 📦 Automated application rollout
 
-- ## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,terraform,git,github,docker,kubernetes,linux,bash,vscode" />
-</p>
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| Azure Landing Zone | Enterprise Azure Landing Zone using Terraform |
-| Azure Infrastructure | Resource Groups, VNets, Subnets, NSGs, VMs |
-| Terraform Modules | Parent & Child Module Implementation |
-| GitHub Portfolio | Professional GitHub Profile |
-
-
-| Azure DevOps Pipeline | CI/CD Pipeline Implementation |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanchal7567&show_icons=true&theme=tokyonight" />
-</p>
 ## 🔥 GitHub Streak
 
 <p align="center">
