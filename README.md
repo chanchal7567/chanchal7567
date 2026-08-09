@@ -38,6 +38,51 @@ Hi, I'm **Chanchal**, a passionate **Cloud & DevOps Engineer** with hands-on exp
   <img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
+## 🚀 Featured Projects
+
+### ☁️ End-to-End DevSecOps Pipeline on Azure
+
+Designed and deployed cloud infrastructure on Microsoft Azure using Terraform and automated application delivery through CI/CD.
+
+**Technologies:**
+`Azure` `Terraform` `GitHub Actions` `Docker` `DevSecOps`
+
+**Highlights:**
+- ⚙️ Provisioned Azure infrastructure using Terraform
+- 🔄 Built CI/CD workflows using GitHub Actions
+- 🐳 Integrated Docker containerization
+- 🔐 Integrated security scanning into the CI/CD pipeline
+- ⚡ Reduced deployment time through end-to-end automation
+
+
+### 🏗️ Highly Available Azure Infrastructure
+
+Designed highly available Azure infrastructure using Virtual Machines and Load Balancer for scalable application workloads.
+
+**Technologies:**
+`Azure` `Virtual Machines` `Load Balancer` `VNet` `Subnets` `NSGs`
+
+**Highlights:**
+- ☁️ Designed Azure Virtual Network architecture
+- 🔐 Configured secure Subnets and NSGs
+- ⚖️ Implemented Azure Load Balancer
+- 📈 Designed infrastructure for horizontal scalability
+- 🛡️ Focused on secure and highly available workloads
+
+
+### ☸️ Containerized Microservice Deployment on Kubernetes
+
+Deployed and managed containerized workloads on Azure Kubernetes Service (AKS).
+
+**Technologies:**
+`Docker` `Kubernetes` `AKS` `Azure` `CI/CD`
+
+**Highlights:**
+- 🐳 Created Docker images for application services
+- ☸️ Deployed workloads on AKS
+- 🔄 Managed Kubernetes Pods, Services and Deployments
+- 🚀 Integrated containers with CI/CD workflows
+- 📦 Automated application rollout
 
 - ## 🛠️ Tech Stack
 
