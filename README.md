@@ -20,6 +20,21 @@ Hi, I'm **Chanchal**, a passionate **Cloud & DevOps Engineer** with hands-on exp
 - 🐳 Containerization: Docker
 - ☸️ Orchestration: Kubernetes
 - 🎯 Currently focused on Azure Infrastructure Automation and DevOps Best Practices.
+- ## 👋 About Me
+
+Hi, I'm **Chanchal Raj**, a **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated cloud infrastructure.
+
+☁️ Hands-on experience with **Microsoft Azure** and cloud infrastructure deployment.
+
+🏗️ Experienced in **Terraform** and Infrastructure as Code (IaC).
+
+🔄 Working with **Azure DevOps, GitHub Actions, Git, and GitHub** for CI/CD and version control.
+
+🐳 Familiar with **Docker, Kubernetes, and AKS** fundamentals.
+
+🔐 Interested in **DevSecOps, cloud security, automation, and enterprise cloud architecture**.
+
+🚀 Currently focused on strengthening my skills in **Azure, Terraform, CI/CD, and DevOps automation**.
 
 ## 🛠️ Skills & Technologies
 
