@@ -9,17 +9,6 @@
 </div>
 ----
 
-## 👨‍💻 About Me
-
-Hi, I'm **Chanchal**, a passionate **Cloud & DevOps Engineer** with hands-on experience in Microsoft Azure and DevOps tools.
-
-- ☁️ Cloud Platform: Microsoft Azure
-- 🏗️ Infrastructure as Code: Terraform
-- 🔄 Version Control: Git & GitHub
-- 🚀 CI/CD: Azure DevOps
-- 🐳 Containerization: Docker
-- ☸️ Orchestration: Kubernetes
-- 🎯 Currently focused on Azure Infrastructure Automation and DevOps Best Practices.
 - ## 👋 About Me
 
 Hi, I'm **Chanchal Raj**, a **Cloud & DevOps Engineer** passionate about building secure, scalable, and automated cloud infrastructure.
